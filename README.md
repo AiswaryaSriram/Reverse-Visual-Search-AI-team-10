@@ -24,8 +24,10 @@ in the colab notebook that give you instructions on which cells to execute depen
 Improvement:
 Open the Improvement notebook in Colab Pro
 Activate GPU runtime type
-Go to the AI_Project/FacenetKNN/model/guide file: It contains a link to a google drive folder with all the model files
+Go to the AI_Project/FacenetKNN/guide.txt file: It contains a link to a google drive folder with all the model files
 You may either a) execute the entire colab notebook from scratch. Or b) use the saved model files to save time. Colab notebooks are
-also commented. Read comments to understand further
+also commented. Read comments to understand further.
+
+NOTE: The notebooks are too large to render on GitHub so download them and open on Google Colaboratory to best visualize them.
 
 The report with explanation of our model, architecture is also present in this git link.
